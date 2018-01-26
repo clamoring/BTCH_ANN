@@ -1,6 +1,6 @@
 Announcing BitcoinHush
 
-Bitcoin Hush (BTCH) is not something that has ever existed before. It is a Komodo (KMD) asset chain with imported Unspent Transaction Output (UTXO) datasets from four different blockchains (HUSH, SUPERNET, DEX, BTC). It dumps that value onto a fifth, brand-new chain. It does not fork from KMD, nor does it fork from BTC or HUSH. It is technically NOT A FORK, but a merged airdrop.
+[Bitcoin Hush](https://http//btchush.org/) (BTCH) is not something that has ever existed before. It is a Komodo (KMD) asset chain with imported Unspent Transaction Output (UTXO) datasets from four different blockchains (HUSH, SUPERNET, DEX, BTC). It dumps that value onto a fifth, brand-new chain. It does not fork from KMD, nor does it fork from BTC or HUSH. It is technically NOT A FORK, but a merged airdrop.
 
 Why you want BTCH: 
 Besides getting the airdrop, as a KMD asset chain BTCH takes full advantage of the KMD ecosystem (utilizing tech like dPOW and dICO). The names involved in the creation of BTCH, jl777 (KMD) & Duke Leto (HUSH), are some of the best and brightest in the industry. BTCH is a new coin to try out new ideas that are simply impossible with any blockchain that currently exists. As a KMD asset chain, it will inherit future KMD technology and updates. It is the DaVinci's Workshop of blockchain technology and already has *lots* of eyes on it.
